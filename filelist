@@ -1,0 +1,5 @@
+../RTL/i2c_master_slave.sv
+../RTL/i2c_assertions.sv
+../RTL/bindfile.sva
+../RTL/design_includes.h
+

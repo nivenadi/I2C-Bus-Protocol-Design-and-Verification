@@ -1,0 +1,2 @@
+
+bind i2c_master_slave i2c_assert p1(.*);
